@@ -17,7 +17,7 @@ body{
 }
 canvas{
 	margin: 0 auto;
-	background-color: lightgreen;
+	background-color: green;
 	float: left;
 }
 #scores{
