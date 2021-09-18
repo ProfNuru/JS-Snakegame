@@ -149,7 +149,7 @@ function Snake(segmentSize){
 }
 
 var box = 16; //Size of snake segment, unit of field size
-var speed = 200; //Initialize time
+var speed = 250; //Initialize time
 var score = 0;
 var highscore = 0;
 //Instantiate Field and Snake
